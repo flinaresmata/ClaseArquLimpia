@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\SOLID\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D44B2C81-CC70-46E4-B5F0-12248A40C922}|SOLID\\SOLID.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo 1\\solid\\solid\\solid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D44B2C81-CC70-46E4-B5F0-12248A40C922}|SOLID\\SOLID.csproj|solutionrelative:solid\\solid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D44B2C81-CC70-46E4-B5F0-12248A40C922}|SOLID\\SOLID.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo 1\\solid\\solid\\sr\\userregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D44B2C81-CC70-46E4-B5F0-12248A40C922}|SOLID\\SOLID.csproj|solutionrelative:solid\\sr\\userregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,11 +27,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SOLID",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\SOLID\\SOLID\\SOLID.csproj",
+              "RelativeDocumentMoniker": "SOLID\\SOLID.csproj",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\SOLID\\SOLID\\SOLID.csproj",
+              "RelativeToolTip": "SOLID\\SOLID.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T19:59:45.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserRegistry.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\SOLID\\SOLID\\SR\\UserRegistry.cs",
               "RelativeDocumentMoniker": "SOLID\\SR\\UserRegistry.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\SOLID\\SOLID\\SR\\UserRegistry.cs*",
-              "RelativeToolTip": "SOLID\\SR\\UserRegistry.cs*",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\SOLID\\SOLID\\SR\\UserRegistry.cs",
+              "RelativeToolTip": "SOLID\\SR\\UserRegistry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T17:15:38.986Z",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\SOLID\\SOLID\\Program.cs",
               "RelativeDocumentMoniker": "SOLID\\Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "SOLID\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:13:17.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T17:13:17.107Z"
             }
           ]
         }

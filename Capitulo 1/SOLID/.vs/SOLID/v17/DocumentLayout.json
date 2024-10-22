@@ -27,7 +27,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SOLID",
+              "Title": "SOLID.csproj",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\SOLID\\SOLID\\SOLID.csproj",
               "RelativeDocumentMoniker": "SOLID\\SOLID.csproj",
               "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\SOLID\\SOLID\\SOLID.csproj",
@@ -47,8 +47,7 @@
               "RelativeToolTip": "SOLID\\SR\\UserRegistry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T17:15:38.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T17:15:38.986Z"
             },
             {
               "$type": "Document",

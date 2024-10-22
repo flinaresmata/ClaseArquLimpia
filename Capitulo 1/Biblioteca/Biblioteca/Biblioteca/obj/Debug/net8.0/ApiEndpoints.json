@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ReservacionesRESTFULL.Presentation.Controllers.BibliotecaController",
+    "Method": "Create",
+    "RelativePath": "api/Biblioteca",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Biblioteca.Data.DTO.BookDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReservacionesRESTFULL.Presentation.Controllers.BibliotecaController",
+    "Method": "GetAll",
+    "RelativePath": "api/Biblioteca",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReservacionesRESTFULL.Presentation.Controllers.BibliotecaController",
+    "Method": "FindBook",
+    "RelativePath": "api/Biblioteca/Books",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "book",
+        "Type": "Biblioteca.Data.DTO.BookDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
