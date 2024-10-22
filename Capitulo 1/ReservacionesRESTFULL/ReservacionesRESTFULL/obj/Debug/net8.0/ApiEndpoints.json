@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "ReservacionesRESTFULL.Presentation.Controllers.ReservationController",
+    "Method": "Create",
+    "RelativePath": "api/Reservation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ReservacionesRESTFULL.Data.DTO.ReservationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReservacionesRESTFULL.Presentation.Controllers.ReservationController",
+    "Method": "GetAll",
+    "RelativePath": "api/Reservation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReservacionesRESTFULL.Presentation.Controllers.ReservationController",
+    "Method": "GetAvailableRooms",
+    "RelativePath": "api/Reservation/Rooms",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
