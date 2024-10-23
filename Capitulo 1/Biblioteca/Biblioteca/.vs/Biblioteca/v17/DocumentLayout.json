@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo 1\\biblioteca\\biblioteca\\biblioteca\\data\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\data\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo 1\\biblioteca\\biblioteca\\biblioteca\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo 1\\biblioteca\\biblioteca\\biblioteca\\presentation\\controllers\\bibliotecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentation\\controllers\\bibliotecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo 1\\biblioteca\\biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo 1\\biblioteca\\biblioteca\\biblioteca\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\bussiness\\services\\bookserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo 1\\biblioteca\\biblioteca\\biblioteca\\bussiness\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\bussiness\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo 1\\biblioteca\\biblioteca\\biblioteca\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo 1\\biblioteca\\biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo 1\\biblioteca\\biblioteca\\biblioteca\\presentation\\controllers\\bibliotecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentation\\controllers\\bibliotecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A810A59A-88A3-4C51-BF11-DCE8962C559D}|Biblioteca\\Biblioteca.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo 1\\biblioteca\\biblioteca\\biblioteca\\data\\dto\\autordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,34 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Data\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Data\\Repositories\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Data\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "Biblioteca\\Data\\Repositories\\BookRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAewA8AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:48:20.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Bussiness\\Services\\IBookService.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Bussiness\\Services\\IBookService.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Bussiness\\Services\\IBookService.cs",
-              "RelativeToolTip": "Biblioteca\\Bussiness\\Services\\IBookService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAnwAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:40:17.396Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -82,14 +48,28 @@
               "RelativeDocumentMoniker": "Biblioteca\\Bussiness\\Services\\BookServiceImpl.cs",
               "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Bussiness\\Services\\BookServiceImpl.cs",
               "RelativeToolTip": "Biblioteca\\Bussiness\\Services\\BookServiceImpl.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T19:39:59.895Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Data\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Data\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Data\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Biblioteca\\Data\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:18:14.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BibliotecaController.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Presentation\\Controllers\\BibliotecaController.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Presentation\\Controllers\\BibliotecaController.cs",
@@ -97,25 +77,11 @@
               "RelativeToolTip": "Biblioteca\\Presentation\\Controllers\\BibliotecaController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:50:27.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:50:27.532Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BookDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Data\\DTO\\BookDTO.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Data\\DTO\\BookDTO.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Data\\DTO\\BookDTO.cs",
-              "RelativeToolTip": "Biblioteca\\Data\\DTO\\BookDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:30:59.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "AppDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Data\\AppDBContext.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Data\\AppDBContext.cs",
@@ -128,20 +94,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Program.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
               "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Program.cs",
               "RelativeToolTip": "Biblioteca\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T19:38:37.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "AutorDTO.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Data\\DTO\\AutorDTO.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Data\\DTO\\AutorDTO.cs",
@@ -149,12 +115,11 @@
               "RelativeToolTip": "Biblioteca\\Data\\DTO\\AutorDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:30:26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:30:26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Autor.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo 1\\Biblioteca\\Biblioteca\\Biblioteca\\Bussiness\\Entities\\Autor.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Bussiness\\Entities\\Autor.cs",
@@ -162,8 +127,7 @@
               "RelativeToolTip": "Biblioteca\\Bussiness\\Entities\\Autor.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:26:02.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:26:02.676Z"
             }
           ]
         }

@@ -62,8 +62,7 @@
               "RelativeToolTip": "ReservacionesRESTFULL\\Bussiness\\Services\\IReservationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:52:42.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:52:42.212Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "ReservacionesRESTFULL\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:38:50.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:38:50.757Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "ReservacionesRESTFULL\\Data\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:34:09.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:34:09.338Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "RelativeToolTip": "ReservacionesRESTFULL\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T19:29:44.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:29:44.559Z"
             },
             {
               "$type": "Document",
@@ -114,8 +110,7 @@
               "RelativeToolTip": "ReservacionesRESTFULL\\Bussiness\\Entities\\Reservation.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:26:50.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:26:50.631Z"
             },
             {
               "$type": "Document",
@@ -127,8 +122,7 @@
               "RelativeToolTip": "ReservacionesRESTFULL\\Bussiness\\Services\\ReservationServiceImpl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:47:48.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T16:47:48.898Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "ReservacionesRESTFULL\\Bussiness\\Entities\\User.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:26:58.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:26:58.551Z"
             },
             {
               "$type": "Document",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "ReservacionesRESTFULL\\Bussiness\\Entities\\Room.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:27:03.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:27:03.552Z"
             },
             {
               "$type": "Document",
@@ -179,8 +171,7 @@
               "RelativeToolTip": "ReservacionesRESTFULL\\Data\\Repositories\\ReservationRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T17:38:44.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T17:38:44.611Z"
             }
           ]
         }
